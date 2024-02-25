@@ -1,0 +1,30 @@
+/* styles.css */
+
+.green-background {
+    -fx-background-color: #6ce300;
+}
+
+.my-background {
+    -fx-background-color: #96703f;
+}
+
+.menu-bar{
+    -fx-background-color: #994800;
+    -fx-text-fill: blue ;
+}
+
+
+
+.table-view .column-header .label {
+    -fx-text-fill: white;
+    -fx-font: 12px "sans-serif";
+}
+
+.table-view .column-header{
+    -fx-background-color: #a3a3a3;
+
+}
+
+.actionButton{
+    -fx-background-color: #b87f31;
+}
